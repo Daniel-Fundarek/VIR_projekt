@@ -1,0 +1,13 @@
+/.vscode/**
+/my_images/**
+/my_imgs_hi_res/**
+/my_imgs_hi_res_2/**
+/my_imgs_hi_rotated_resized/**
+/my_imgs_hi_rotated_resized_2/**
+/runs/**
+/dataset/**
+/yolov8l.pt
+yolov8m.pt
+yolov8n.pt
+yolov8s.pt
+yolov8x.pt
