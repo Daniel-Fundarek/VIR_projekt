@@ -2,8 +2,8 @@ import os
 import cv2
 import numpy as np
 
-src_path = 'my_imgs_hi_res_2'
-dest_path = 'my_imgs_rotated_resized_2'
+src_path = 'my_imgs_hi_res_3'
+dest_path = 'my_imgs_rotated_resized_3'
 file_names = [file for file in os.listdir(src_path) if file.endswith(('.jpg','.jpeg','.png','.JPG'))]
 dim = (800, 480)
 for file_name in file_names:
